@@ -1,1 +1,1 @@
-# Store information(name,author,and ratings) for books
+# Store information(name,author,and ratings) for virtual bookshelf
